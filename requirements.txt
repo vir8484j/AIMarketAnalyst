@@ -1,0 +1,18 @@
+langchain
+langchain_community
+langchain_core
+langchain_huggingface
+sentence-transformers
+# Vector store & tokenization
+faiss-cpu==1.7.4
+tiktoken==0.4.0
+# Document parsing
+unstructured==0.9.2
+libmagic==1.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
+# Environment & UI
+python-dotenv==1.0.0
+streamlit==1.22.0
+OpenAI == 0.28.0
+langchain-groq
